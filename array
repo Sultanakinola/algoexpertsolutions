@@ -1,0 +1,8 @@
+write a function that takes a non-empty array of integer that is sorted in ascending order and returns a new array of the same length with the square of the original integer also sorted also sorted in ascending order.
+
+
+SAMPLE INPTS 
+array = [1,2,3,5,6,7,8,9]
+
+SAMPLE OUTPUT 
+array = [1,4,9,25,36,64,81]
